@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">W4_P4</string>
+    <string name="south_text">South Page</string>
+    <string name="north_text">North page</string>
+    <string name="east_text">East page</string>
+    <string name="west_text">West page</string>
 </resources>
